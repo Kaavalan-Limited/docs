@@ -1,7 +1,5 @@
 
-<div align="center">
-    <img src="https://cybercheck360.com/images/whiteLogo.png" width="auto" height="75" alt="Cybercheck360 Logo">
-</div>
+![](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/Cybercheck360_Logo_Blue_500.png)
 
 **Cybercheck360.com** is a cutting-edge SaaS-based Threat Intelligence Platform developed by **Kaavalan Limited**. Designed to empower security professionals, **Cybercheck360** offers advanced threat-hunting capabilities from a single, unified interface, integrating data from multiple vendors to enhance your security operations.
 
