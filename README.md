@@ -24,9 +24,9 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
 	
 3. **Integartions**
-	- `[AbuseIPDB](#abuseipdb)`
-	- `VirusTotal`
-	- `AlienVault OTX`
+	> - [AbuseIPDB](#abuseipdb)
+	> - `VirusTotal`
+	> - `AlienVault OTX`
  4. **Browser Extension**
     - [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
     - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
