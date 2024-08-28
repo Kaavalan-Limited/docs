@@ -34,7 +34,8 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 ## Search IOCs <a name="searchiocs"></a>
 This is a dummy section that explains about IOCs
 
-## **How to Enable AbuseIPDB Integration** [](#}{name=abuseipdb}
+## **How to Enable AbuseIPDB Integration**
+<div id="abuseipdb"/>
 This Section should exaplain how to Enable Abuse IP DB and show screenshot of how results will look like when enabled. 
 
 
