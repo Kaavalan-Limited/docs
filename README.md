@@ -1,5 +1,5 @@
 
-![CyberCheck360.com Logo](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/Cybercheck360_Logo_Blue_500.png "CyberCheck360 Powered by Kaavalan")  ![Kaavalan.org Logo](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/KAAVALAN+LOGO-02_400.png "Kaavalan Limited")
+![CyberCheck360.com Logo](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/Cybercheck360_Logo_Blue_500.png "CyberCheck360 Powered by Kaavalan")
 
 **Cybercheck360.com** is a cutting-edge SaaS-based Threat Intelligence Platform developed by **Kaavalan Limited**. Designed to empower security professionals, **Cybercheck360** offers advanced threat-hunting capabilities from a single, unified interface, integrating data from multiple vendors to enhance your security operations.
 
@@ -12,9 +12,27 @@ For personal use, our platform is free, offering essential tools for those with 
 Additionally, Cybercheck360 allows registered users to integrate their own API keys from third-party vendors, providing a tailored solution that enables informed decision-making—all from one centralized dashboard.
 
 **Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
+
+# Features
+1. **Search IOCs** with 100+ Threat Intelligence Feeds
+		IP Lookup
+		Bulk IP Lookup
+		URL Lookup with Screenshot and Lot more
+		Domain Lookup
+2. IOCs List
+		Private (**A List that contains indicators that are private only to you and can be shared to other cybercehck360 users)
+		Public (A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it)
+	
+3. Integartions
+		AbuseIPDB
+		VirusTotal
+		AlienVault OTX
+
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
