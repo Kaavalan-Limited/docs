@@ -24,15 +24,20 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
 	
 3. **Integartions**
-	- AbuseIPDB
-	- VirusTotal
-	- AlienVault OTX
+	- `[AbuseIPDB](#abuseipdb)`
+	- `VirusTotal`
+	- `AlienVault OTX`
  4. **Browser Extension**
     - [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
     - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ## Search IOCs <a name="searchiocs"></a>
 This is a dummy section that explains about IOCs
+
+
+## How to Enable AbuseIPDB Integration <a name="abuseipdb"></a>
+This Section should exaplain how to Enable Abuse IP DB and show screenshot of how results will look like when enabled. 
+
 
 # Getting Started with Create React App
 
