@@ -20,16 +20,16 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- URL Lookup with Screenshot and Lot more
 	- Domain Lookup
 2. **IOCs List**
-	1. Private (*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
-	2. Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
+	- Private (*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
+	- Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
 	
 3. **Integartions**
-	1. AbuseIPDB
-	2. VirusTotal
-	3. AlienVault OTX
+	- AbuseIPDB
+	- VirusTotal
+	- AlienVault OTX
  4. **Browser Extension**
-    	1. [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
-    	2. [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    - [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
+    - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 
 
