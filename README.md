@@ -15,10 +15,10 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 
 # Features
 1. **Search IOCs** with 100+ Threat Intelligence Feeds
-	1. IP Lookup
-	2. Bulk IP Lookup
-	3. URL Lookup with Screenshot and Lot more
-	4. Domain Lookup
+	- IP Lookup
+	- Bulk IP Lookup
+	- URL Lookup with Screenshot and Lot more
+	- Domain Lookup
 2. **IOCs List**
 	1. Private (*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
 	2. Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
