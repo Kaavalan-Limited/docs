@@ -14,7 +14,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 **Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
 
 # Features
-1. **Search IOCs** with 100+ Threat Intelligence Feeds
+1. [**Search IOCs** with 100+ Threat Intelligence Feeds](#searchiocs)
 	- IP Lookup
 	- Bulk IP Lookup
 	- URL Lookup with Screenshot and Lot more
@@ -31,7 +31,8 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
     - [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
     - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-
+## Search IOCs <a name="searchiocs"></a>
+This is a dummy section that explains about IOCs
 
 # Getting Started with Create React App
 
