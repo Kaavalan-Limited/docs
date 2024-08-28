@@ -15,10 +15,10 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 
 # Features
 1. **Search IOCs** with 100+ Threat Intelligence Feeds
-		IP Lookup
-		Bulk IP Lookup
-		URL Lookup with Screenshot and Lot more
-		Domain Lookup
+	IP Lookup
+	Bulk IP Lookup
+	URL Lookup with Screenshot and Lot more
+	Domain Lookup
 2. IOCs List
 		Private (**A List that contains indicators that are private only to you and can be shared to other cybercehck360 users)
 		Public (A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it)
@@ -27,6 +27,13 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 		AbuseIPDB
 		VirusTotal
 		AlienVault OTX
+
+ 1. Search IOCs
+	 1. Test
+	 2. Magic
+ 2. IOCs List
+	 1.
+ 3. List item
 
 # Getting Started with Create React App
 
