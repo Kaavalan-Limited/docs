@@ -1,3 +1,16 @@
+![](http://www.cybercheck360.com:3000/images/whiteLogo.png)
+
+**Cybercheck360.com** is a cutting-edge SaaS-based Threat Intelligence Platform developed by **Kaavalan Limited**. Designed to empower security professionals, **Cybercheck360** offers advanced threat-hunting capabilities from a single, unified interface, integrating data from multiple vendors to enhance your security operations.
+
+But we're not just for security experts. **Cybercheck360** also caters to everyday users who may be receiving suspicious SMS messages from unknown numbers. Curious whether that unexpected text is legitimate? Our platform leverages AI and sophisticated URL analysis techniques to validate the authenticity of SMS messages, helping users stay safe in the digital world.
+
+We aggregate threat intelligence from over 100+ open-source feeds, ensuring a robust and dynamic database that evolves with emerging threats. A special thanks to the open-source community for their invaluable contributions, making the internet safer for everyone.
+
+For personal use, our platform is free, offering essential tools for those with light usage needs. However, for users requiring advanced features and curated threat intelligence feeds, we offer a commercial plan. This premium option combines the power of both Premium and Open Source feeds to deliver a superior threat intelligence experience.
+
+Additionally, Cybercheck360 allows registered users to integrate their own API keys from third-party vendors, providing a tailored solution that enables informed decision-making—all from one centralized dashboard.
+
+**Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
