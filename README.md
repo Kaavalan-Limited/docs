@@ -31,13 +31,17 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
+## Documentation
+
+- [Installation Guide](docs/intro.md)
+
 ## Search IOCs 
 This is a dummy section that explains about IOCs
 
-## **AbuseIPDB Integration** 
+## **AbuseIPDB Integration**
 This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
 
-## **Virustotal Integration** 
+## **Virustotal Integration**
 This Section should explain who is Virustotal and how to Enable Virustotal and show screenshot of how results will look like when enabled. 
 
 ## **AlienVault OTX Integration**
