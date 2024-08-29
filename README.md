@@ -14,7 +14,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 **Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
 
 # Features
-1. [**Search IOCs** with 100+ Threat Intelligence Feeds](#searchiocs)
+1. [**Search IOCs** with 100+ Threat Intelligence Feeds](#search-iocs)
 	- IP Lookup
 	- Bulk IP Lookup
 	- URL Lookup with Screenshot and Lot more
@@ -24,23 +24,23 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
 	
 3. **Integartions**
-	- [AbuseIPDB](#abuseipdb)
-	- [VirusTotal](#virustotal)
-	- [AlienVault OTX](#alienvault)
+	- [AbuseIPDB](#abuseipdb-integration)
+	- [VirusTotal](#virustotal-integration)
+	- [AlienVault OTX](#alienvault-otx-integration)
  4. **Browser Extension**
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-## Search IOCs {#searchiocs}
+## Search IOCs 
 This is a dummy section that explains about IOCs
 
-## **AbuseIPDB Integration** {#abuseipdb}
+## **AbuseIPDB Integration** 
 This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
 
-## **Virustotal Integration** {#virustotal}
+## **Virustotal Integration** 
 This Section should explain who is Virustotal and how to Enable Virustotal and show screenshot of how results will look like when enabled. 
 
-## **AlienVault OTX Integration** {#alienvault}
+## **AlienVault OTX Integration**
 This Section should explain who is AlienVault and how to Enable AlienVault and show screenshot of how results will look like when enabled.
 
 # Getting Started with Create React App
