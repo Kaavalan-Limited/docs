@@ -31,16 +31,16 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-## Search IOCs <a name="searchiocs"></a>
+## Search IOCs {#searchiocs}
 This is a dummy section that explains about IOCs
 
-## **AbuseIPDB Integration** <a name="abuseipdb"></a>
+## **AbuseIPDB Integration** {#abuseipdb}
 This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
 
-## **Virustotal Integration** <a name="virustotal"></a>
+## **Virustotal Integration** {#virustotal}
 This Section should explain who is Virustotal and how to Enable Virustotal and show screenshot of how results will look like when enabled. 
 
-## **AlienVault OTX Integration** <a name="alienvault"></a>
+## **AlienVault OTX Integration** {#alienvault}
 This Section should explain who is AlienVault and how to Enable AlienVault and show screenshot of how results will look like when enabled.
 
 # Getting Started with Create React App
