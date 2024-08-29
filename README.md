@@ -33,7 +33,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 
 ## Documentation
 
-- [Installation Guide](docs/intro.md)
+- [Installation Guide](documentation/intro.md)
 
 ## Search IOCs 
 This is a dummy section that explains about IOCs
