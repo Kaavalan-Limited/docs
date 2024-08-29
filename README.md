@@ -17,7 +17,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 **Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
 
 # Features
-1. [**Search IOCs** with 100+ Threat Intelligence Feeds](#search-iocs)
+1. [**Search IOCs**](#search-iocs) with 100+ Threat Intelligence Feeds
 	- IP Lookup
 	- Bulk IP Lookup
 	- URL Lookup with Screenshot and Lot more
