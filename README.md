@@ -38,6 +38,10 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 This section is designed to help you search for indicators such as IP addresses, domains, and URLs, and even validate SMS messages containing links to check if they are legitimate. You can search across multiple open-source threat intelligence feeds and benefit from AI-powered insights that enhance the accuracy of the information gathered. 
 
 We are constantly working on bringing more trusted feeds that are widely used by the security community. ***Special thanks to all the open-source threat intelligence feed providers for their invaluable support to the community.*** If you feel any feed is missing and it’s open-source, feel free to submit a feature request to add the feed using the **chat** icon at the bottom right.
+<div style="display: flex; justify-content: center;">
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/IP_Search_Basic_Top+Screen.png" alt="CyberCheck360.com IP Lookup Results"/>
+</div>
+
 
 ### Catgeories
 	> Malware
