@@ -60,19 +60,19 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
 
 ### Methods for Collecting Threat Intelligence Feeds
 
-- **API Method**  
+	- **API Method**  
   We integrate with various APIs provided by threat intelligence services. These APIs deliver real-time data about threats, including IP addresses, domains, and URLs associated with malicious activities. This method allows us to obtain up-to-date and accurate threat information directly from the source.
 
-- **Crawling Files**  
+	- **Crawling Files**  
   Our system performs automated crawling of publicly available threat intelligence files. These files are often hosted on security community websites or by organizations that share their findings. By regularly scanning and downloading these files, we can incorporate new threat data into our feeds.
 
-- **Crawling RSS Feeds**  
+	- **Crawling RSS Feeds**  
   We monitor RSS feeds from reputable security blogs and threat intelligence platforms. These feeds provide timely updates on the latest security threats and vulnerabilities. By crawling these feeds, we ensure that our threat intelligence is current and relevant.
 
-- **Manual Extraction from Reports**  
+	- **Manual Extraction from Reports**  
   We manually review and extract data from security reports published by experts and organizations. This method allows us to gather detailed and context-rich information about threats that might not be available through automated methods.
 
-- **DNSBL (DNS-based Blackhole Lists)**  
+	- **DNSBL (DNS-based Blackhole Lists)**  
   DNSBLs are a traditional technology used to block or filter spam and malicious traffic by checking IP addresses against a blacklist. While not as commonly used today due to advancements in threat detection, DNSBLs still provide valuable data for identifying known sources of spam and malicious activities.
 
 
