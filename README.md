@@ -58,7 +58,7 @@ Exploits are methods used to take advantage of vulnerabilities in systems, appli
 	> Spam
 Spam refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs). 
 
-### Methods for Collecting Threat Intelligence Feeds
+<!--### Methods for Collecting Threat Intelligence Feeds
 
 [**API Method**]
   We integrate with various APIs provided by threat intelligence services. These APIs deliver real-time data about threats, including IP addresses, domains, and URLs associated with malicious activities. This method allows us to obtain up-to-date and accurate threat information directly from the source.
@@ -74,7 +74,7 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
 
 	- **DNSBL (DNS-based Blackhole Lists)**  
   DNSBLs are a traditional technology used to block or filter spam and malicious traffic by checking IP addresses against a blacklist. While not as commonly used today due to advancements in threat detection, DNSBLs still provide valuable data for identifying known sources of spam and malicious activities.
-
+-->
 
 
 
