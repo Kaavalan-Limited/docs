@@ -47,7 +47,7 @@ Malware is harmful software designed to damage or exploit systems, networks, or 
 Phishing involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 ### 
 	> Botnet
-Botnets consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in scanning or exhibiting bot-like behaviors are categorized under the "Botnet" category. 
+Botnets consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
 ### 
 	> Anonymizers
 Anonymizers are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
