@@ -24,8 +24,8 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Domain Lookup
  	- SMS Validation
 2. **IOCs List**
-	- Private List(*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
-	- Public List(*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
+	- Private List
+	- Public List
 3. **Integartions**
 	- [AbuseIPDB](#abuseipdb-integration)
 	- [VirusTotal](#virustotal-integration)
@@ -80,6 +80,19 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
   DNSBLs are a traditional technology used to block or filter spam and malicious traffic by checking IP addresses against a blacklist. While not as commonly used today due to advancements in threat detection, DNSBLs still provide valuable data for identifying known sources of spam and malicious activities.
 -->
 
+## Lists (IOC Lists)
+Our Lists organized into two main types: Public and Private. Private and Public List can be categorised into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
+
+###
+> Public
+A Public List conatins indicators that are publicly accessible to any of the Cybercheck360.com users. It has ssome minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it
+
+Users can also report False Positives and it is visbile to everyone. More Falsepositive reports will lead to non trustworthy list and people may not benefit from the list. 
+
+###
+> Private
+A List that contains indicators that are private only to you and thelist can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privillege to report to any False positive reports on the List.
+
 
 
 If you notice any issues or have suggestions for improvements, please reach out. We're always ready to review and update our data to ensure it meets your needs.
@@ -98,69 +111,3 @@ This Section should explain who is AlienVault and how to Enable AlienVault and s
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
