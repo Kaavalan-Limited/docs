@@ -84,13 +84,13 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
 Our Lists organized into two main types: Public and Private. Private and Public List can be categorised into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
 ###
-> Public
+	> Public
 A Public List conatins indicators that are publicly accessible to any of the Cybercheck360.com users. It has ssome minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it
 
-Users can also report False Positives and it is visbile to everyone. More Falsepositive reports will lead to non trustworthy list and people may not benefit from the list. 
+`Users can also report False Positives and it is visbile to everyone. More Falsepositive reports will lead to non trustworthy list and people may not benefit from the list. `
 
 ###
-> Private
+	> Private
 A List that contains indicators that are private only to you and thelist can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privillege to report to any False positive reports on the List.
 
 
