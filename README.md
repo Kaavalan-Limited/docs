@@ -62,6 +62,7 @@ Exploits are methods used to take advantage of vulnerabilities in systems, appli
 	> Spam
 Spam refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs). 
 
+`If you notice any issues or have suggestions for improvements, please reach out. We're always ready to review and update our data to ensure it meets your needs.`
 <!--### Methods for Collecting Threat Intelligence Feeds
 
 [**API Method**]
@@ -85,9 +86,9 @@ Our Lists organized into two main types: Public and Private. Private and Public 
 
 ###
 	> Public
-A Public List conatins indicators that are publicly accessible to any of the Cybercheck360.com users. It has ssome minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it
+A Public List conatins indicators that are publicly accessible to any of the Cybercheck360.com users. It has ssome minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it. Lists can hold a maximum on 10,000 indicators.
 
-`Users can also report False Positives and it is visbile to everyone. More Falsepositive reports will lead to non trustworthy list and people may not benefit from the list. `
+`Users can report false positives, and these reports are visible to everyone. A high number of false positive reports can affect the trustworthiness of your list, potentially leading to reduced interest from users.`
 
 ###
 	> Private
@@ -95,7 +96,7 @@ A List that contains indicators that are private only to you and thelist can be 
 
 
 
-If you notice any issues or have suggestions for improvements, please reach out. We're always ready to review and update our data to ensure it meets your needs.
+
 ## **AbuseIPDB Integration**
 This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
 
