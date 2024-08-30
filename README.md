@@ -42,8 +42,8 @@ We are constantly working on bringing more trusted feeds that are widely used by
 ### Catgeories
 	> Malware
 Malware is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category. 
-
-> Phishing
+### 
+	> Phishing
 Phishing involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 
 > Botnet
