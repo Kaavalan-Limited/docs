@@ -22,10 +22,10 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Bulk IP Lookup
 	- URL Lookup with Screenshot and Lot more
 	- Domain Lookup
+ 	- SMS Validation
 2. **IOCs List**
-	- Private (*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
-	- Public (*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
-	
+	- Private List(*A List that contains indicators that are private only to you and can be shared to other cybercehck360 users*)
+	- Public List(*A List that is accessible to anyone who uses Cybercheck360.com, this is athe best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it*)
 3. **Integartions**
 	- [AbuseIPDB](#abuseipdb-integration)
 	- [VirusTotal](#virustotal-integration)
@@ -34,12 +34,15 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-## Documentation
-
-- [Installation Guide](documentation/intro.md)
-
 ## Search IOCs 
-This is a dummy section that explains about IOCs
+This section is designed to help you search for indicators such as IP addresses, domains, and URLs, and even validate SMS messages containing links to check if they are legitimate. You can search across multiple open-source threat intelligence feeds and benefit from AI-powered insights that enhance the accuracy of the information gathered. 
+
+We are constantly working on bringing more trusted feeds that are widely used by the security community. ***Special thanks to all the open-source threat intelligence feed providers for their invaluable support to the community.*** If you feel any feed is missing and it’s open-source, feel free to submit a feature request to add the feed using the **chat** icon at the bottom right.
+
+### Catgeories
+	> Malware
+Malware is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category. If you notice any discrepancies in our data, please let us know. We're here to review and update our records to keep everything accurate.
+	> Phishing
 
 ## **AbuseIPDB Integration**
 This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
