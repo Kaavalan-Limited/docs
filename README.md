@@ -152,9 +152,9 @@ Once you sign up, follow the steps in the below screnshot to get the API Key
 8. Set RateLimits if required, if not leave it to default.
 9. Accept the submision of sending Searched indicators to OTX (Check the Checkbox)
 10. Save Data for re-lookup 7 Days - This option will cache the result for you 7 days.
-    <div style="display: flex;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/cached_icon.png" alt="CyberCheck360.com Cache"/>
-  <p>this represents the result is from cache.</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/cached_icon.png" alt="CyberCheck360.com Cache" style="margin-right: 10px;"/>
+  <p style="margin: 0;">This represents the result is from cache.</p>
 </div>
 <--12. ![](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/cached_icon.png) this represents the result is from cache.-->
 
