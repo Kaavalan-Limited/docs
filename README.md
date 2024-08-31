@@ -112,7 +112,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 
 #### Sample Result Screenshot
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/AbuseIPDB_Sample+Response2.png" style="width: auto; height: 100px;" alt="CyberCheck360.com Results for AbuseIPDB Integration"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/AbuseIPDB_Sample+Response2.png" style="width: auto; height: 150px;" alt="CyberCheck360.com Results for AbuseIPDB Integration"/>
 </div>
 
 
@@ -145,7 +145,7 @@ Before you begin configuring the Integration you may need to register with Virus
 
 #### Sample Result Screenshot
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/VT_Sample+Response.png" style="width: auto; height: 100px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/VT_Sample+Response.png" style="width: auto; height: 150px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
 </div>
 
 
@@ -183,7 +183,7 @@ Once you sign up, follow the steps in the below screnshot to get the API Key
 
 #### Sample Result Screenshot
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/OTX+Sample+Response.png" style="width: auto; height: 100px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/OTX+Sample+Response.png" style="width: auto; height: 150px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
 </div>
 
 
