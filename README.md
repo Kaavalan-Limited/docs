@@ -96,8 +96,9 @@ A List that contains indicators that are private only to you and thelist can be 
 
 
 ## Integrations
+Integrations are essential tools that allow you to seamlessly connect **Cybercheck360** with your trusted **threat intelligence feeds**. By integrating these feeds, you can consolidate diverse threat data sources into a single, unified dashboard. This integration enhances your ability to view and analyze all your threat intelligence in one central location, improving efficiency and decision-making. With a comprehensive view of your threat landscape, you can better manage and respond to potential threats, making your security operations more effective.
 
-### **AbuseIPDB Integration**
+[## **AbuseIPDB Integration**]
 [AbuseIPDB's Mission](https://www.abuseipdb.com/about.html) to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
 #### How to Enable AbuseIPDB Integration with Cybercheck360
@@ -125,7 +126,7 @@ Before you begin configuring the Integration you may need to register with Virus
 8. Set RateLimits if required, if not leave it to default.
 9. Accept the submision of sending Searched indicators to VirusTotal (Check the Checkbox)
 10. Save Data for re-lookup 7 Days - This option will cache the result for you 7 days.
-    `eg: if you search an Indicator on Monday at 10AM, we will cache the response from Virustotal and for the enxt 7 days Until Next Monday 9:59AM we will return the result from the Cache if you search for same indicator. This will avoid over usage of your valuable API subscription.`
+    `For example, if you search for an indicator on Monday at 10 AM, we will cache the response from VirusTotal. For the next 7 days, until the following Monday at 9:59 AM, we will return the cached result for subsequent searches of the same indicator. This approach helps prevent overuse of your valuable API subscription.`
 12. Click on "Save and Enable"
 
 
