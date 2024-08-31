@@ -100,14 +100,14 @@ A List that contains indicators that are private only to you and thelist can be 
 ### **AbuseIPDB Integration**
 [AbuseIPDB's Mission](https://www.abuseipdb.com/about.html) to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
-##### How to Enable AbuseIPDB Integration with Cybercheck360
-Steps:
-	1. Login
-	2. Naviagte to "Integtaions" from the Top Nav Bar
-	3. Naviagte to "Add Integations"
-	4. Expland "AbuseIPDB" Integartion.
-	5. Accept the submision of sending Searched indicators to AbuseIPDB (Check the Checkbox)
-	6. Click on "Save and Enable"
+#### How to Enable AbuseIPDB Integration with Cybercheck360
+	> Steps:
+1. Login
+2. Naviagte to "Integtaions" from the Top Nav Bar
+3. Naviagte to "Add Integations"
+4. Expland "AbuseIPDB" Integartion.
+5. Accept the submision of sending Searched indicators to AbuseIPDB (Check the Checkbox)
+6. Click on "Save and Enable"
 
 ### **Virustotal Integration**
 This Section should explain who is Virustotal and how to Enable Virustotal and show screenshot of how results will look like when enabled. 
