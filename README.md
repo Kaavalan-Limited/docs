@@ -103,7 +103,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 
 #### How to Enable AbuseIPDB Integration with Cybercheck360
 ##### **Steps**:
-1. Login
+1. Login to CyberCheck360.com
 2. Naviagte to "Integtaions" from the Top Nav Bar
 3. Naviagte to "Add Integations"
 4. Expland "AbuseIPDB" Integartion.
@@ -123,7 +123,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 #### How to Enable VirusTotal Integration with Cybercheck360
 Before you begin configuring the Integration you may need to register with Virustotal and Obtain an API Key that will be used in the Later Steps in configuring the integration. 
 ##### **Steps**:
-1. Login
+1. Login to CyberCheck360.com
 2. Naviagte to "Integtaions" from the Top Nav Bar
 3. Naviagte to "Add Integations"
 4. Expland "VirusTotal" Integartion.
@@ -161,7 +161,7 @@ Once you sign up, follow the steps in the below screnshot to get the API Key
 </div>
 
 ##### **Steps**:
-1. Login
+1. Login to CyberCheck360.com
 2. Naviagte to "Integtaions" from the Top Nav Bar
 3. Naviagte to "Add Integations"
 4. Expland "OTX" Integartion.
