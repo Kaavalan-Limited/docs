@@ -29,7 +29,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 3. **Integartions**
 	- [AbuseIPDB](#abuseipdb-integration)
 	- [VirusTotal](#virustotal-integration)
-	- [AlienVault OTX](#alienvault-otx-integration)
+	- [OTX](#otx-integration)
  4. **Browser Extension**
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -99,7 +99,7 @@ A List that contains indicators that are private only to you and thelist can be 
 Integrations are essential tools that allow you to seamlessly connect **Cybercheck360** with your trusted **threat intelligence feeds**. By integrating these feeds, you can consolidate diverse threat data sources into a single, unified dashboard. This integration enhances your ability to view and analyze all your threat intelligence in one central location, improving efficiency and decision-making. With a comprehensive view of your threat landscape, you can better manage and respond to potential threats, making your security operations more effective.
 
 ## [**AbuseIPDB Integration**]
-[AbuseIPDB's Mission](https://www.abuseipdb.com/about.html) to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
+[AbuseIPDB's](https://www.abuseipdb.com/about.html) mission is to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
 #### How to Enable AbuseIPDB Integration with Cybercheck360
 ##### **Steps**:
@@ -130,8 +130,29 @@ Before you begin configuring the Integration you may need to register with Virus
 12. Click on "Save and Enable"
 
 
-### **AlienVault OTX Integration**
-This Section should explain who is AlienVault and how to Enable AlienVault and show screenshot of how results will look like when enabled.
+### **OTX Integration**
+[OTX](https://otx.alienvault.com/) Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+
+#### How to Enable OTX Integration with Cybercheck360
+Before you begin configuring the Integration you may need to signup with OTX and Obtain an API Key that will be used in the Later Steps in configuring the integration. 
+Once you sign up, follow the steps in the below screnshot to get the API Key
+<div style="display: flex; justify-content: center;">
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/OTX_API_KEY_Generation.png" alt="Where to get OTX API Key"/>
+</div>
+
+##### **Steps**:
+1. Login
+2. Naviagte to "Integtaions" from the Top Nav Bar
+3. Naviagte to "Add Integations"
+4. Expland "OTX" Integartion.
+5. Select the IOC Types you want the OTX Integration to be used when you search an IOC in CyberCheck360.
+6. Provide a "Reference Name" an Unique Name that can help you identify if you create multiple Integrations for the same Integration Provider.
+7. Provide API Key from "OTX".
+8. Set RateLimits if required, if not leave it to default.
+9. Accept the submision of sending Searched indicators to OTX (Check the Checkbox)
+10. Save Data for re-lookup 7 Days - This option will cache the result for you 7 days.
+    `For example, if you search for an indicator on Monday at 10 AM, we will cache the response from OTX. For the next 7 days, until the following Monday at 9:59 AM, we will return the cached result for subsequent searches of the same indicator. This approach helps prevent overuse of your valuable API subscription.`
+12. Click on "Save and Enable"
 
 
 
