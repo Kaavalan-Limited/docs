@@ -98,7 +98,7 @@ A List that contains indicators that are private only to you and thelist can be 
 ## Integrations
 Integrations are essential tools that allow you to seamlessly connect **Cybercheck360** with your trusted **threat intelligence feeds**. By integrating these feeds, you can consolidate diverse threat data sources into a single, unified dashboard. This integration enhances your ability to view and analyze all your threat intelligence in one central location, improving efficiency and decision-making. With a comprehensive view of your threat landscape, you can better manage and respond to potential threats, making your security operations more effective.
 
-[## **AbuseIPDB Integration**]
+## [**AbuseIPDB Integration**]
 [AbuseIPDB's Mission](https://www.abuseipdb.com/about.html) to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
 #### How to Enable AbuseIPDB Integration with Cybercheck360
