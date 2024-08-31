@@ -95,20 +95,26 @@ A Public List conatins indicators that are publicly accessible to any of the Cyb
 A List that contains indicators that are private only to you and thelist can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privillege to report to any False positive reports on the List.
 
 
+## Integrations
 
+### **AbuseIPDB Integration**
+[AbuseIPDB's Mission](https://www.abuseipdb.com/about.html) to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
-## **AbuseIPDB Integration**
-This Section should explain who is AbuseIPDB and how to Enable AbuseIPDB and show screenshot of how results will look like when enabled. 
+##### How to Enable AbuseIPDB Integration with Cybercheck360
+Steps:
+	1. Login
+	2. Naviagte to "Integtaions" from the Top Nav Bar
+	3. Naviagte to "Add Integations"
+	4. Expland "AbuseIPDB" Integartion.
+	5. Accept the submision of sending Searched indicators to AbuseIPDB (Check the Checkbox)
+	6. Click on "Save and Enable"
 
-## **Virustotal Integration**
+### **Virustotal Integration**
 This Section should explain who is Virustotal and how to Enable Virustotal and show screenshot of how results will look like when enabled. 
 
-## **AlienVault OTX Integration**
+### **AlienVault OTX Integration**
 This Section should explain who is AlienVault and how to Enable AlienVault and show screenshot of how results will look like when enabled.
 
-# Getting Started with Create React App
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
