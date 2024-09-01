@@ -33,7 +33,15 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
  4. **Browser Extension**
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-
+5. **Upcoming Features**
+   	- API Functionality
+   	- External Dynamic Lists
+   	- Highly Reliable Kaavalan's Threat Intelligence Feed
+   	- Advisories of Recent Vulnerabilities both for you and for your customers.
+   	- Manage Users inside a Organization
+   	- Find the Unknown and Block the Known using our Automated Threat Hunting Engine
+   	- Insider Threat Detection
+   	
 ## Search IOCs 
 This section is designed to help you search for indicators such as IP addresses, domains, and URLs, and even validate SMS messages containing links to check if they are legitimate. You can search across multiple open-source threat intelligence feeds and benefit from AI-powered insights that enhance the accuracy of the information gathered. 
 
@@ -187,5 +195,19 @@ Once you sign up, follow the steps in the below screnshot to get the API Key
 </div>
 
 
+## Browser Extentions
 
+We have passionately designed our Extention  to easily perform IP lookup, URL lookup, Domain lookup, and Blacklist lookup with CyberCheck360's advanced Threat Intelligence platform. By simply highlighting text, you can instantly extract and analyze IP addresses, domains, and URLs for rapid threat intelligence and insights. The platform supports informed cybersecurity decisions by integrating various vendors, allowing users to bring their own API keys and conduct extensive searches across multiple sources within a single TIP. Additionally, users can configure which websites have the URL scanner feature enabled. All settings and integrations are fully customizable in the extension's Options page, ensuring seamless threat lookup and intelligence gathering.
 
+We've made every effort to ensure that all configurations are self-explanatory. However, if you need further guidance, we've also prepared a comprehensive training video that walks you through the process step by step. Feel free to check it out using the link provided.
+
+Our extension is currently available on:
+
+- [_**Google Chrome**_](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
+- [_**Mozilla Firefox**_](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+We’re excited to announce that we're working on expanding support to:
+
+- Other web browsers
+- Email clients
+Stay tuned for updates!
