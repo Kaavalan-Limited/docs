@@ -206,6 +206,9 @@ Our extension is currently available on:
 - [_**Google Chrome**_](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 - [_**Mozilla Firefox**_](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
+
+- <a href="https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd" target="_blank"><b><i>Google Chrome</i></b></a>
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank"><b><i>Mozilla Firefox</i></b></a>
 We’re excited to announce that we're working on expanding support to:
 
 - Other web browsers
