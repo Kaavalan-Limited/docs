@@ -53,25 +53,19 @@ We are constantly working on bringing more trusted feeds that are widely used by
 
 
 ### Catgeories
-- **Malware**
-Malware is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category. 
+- **Malware** is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category. 
 ### 
-- **Phishing**
-Phishing involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
+- **Phishing** involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 ### 
-- **Botnet**
-Botnets consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
+- **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
 ### 
-- **Anonymizers**
-Anonymizers are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
+- **Anonymizers** are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
 ### 
-- **Exploits**
-Exploits are methods used to take advantage of vulnerabilities in systems, applications, or networks to gain unauthorized access or cause damage. These vulnerabilities can exist in software, hardware, or configurations, and exploits are designed to exploit these weaknesses to compromise security.
+- **Exploits** are methods used to take advantage of vulnerabilities in systems, applications, or networks to gain unauthorized access or cause damage. These vulnerabilities can exist in software, hardware, or configurations, and exploits are designed to exploit these weaknesses to compromise security.
 ### 
-- **Spam**
-Spam refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs). 
+- **Spam**  refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs). 
 
-`If you notice any issues or have suggestions for improvements, please reach out. We're always ready to review and update our data to ensure it meets your needs.`
+`If you have suggestions for improvements or any misclassifications, please reach out. We're all ears!`
 <!--### Methods for Collecting Threat Intelligence Feeds
 
 [**API Method**]
