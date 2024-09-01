@@ -148,7 +148,7 @@ Before you begin configuring the Integration you may need to register with Virus
 
 #### Sample Result Screenshot
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/VT_Sample+Response.png" style="width: auto; height: 150px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/VT_Sample+Response.png" style="width: 800px; height: auto;" alt="CyberCheck360.com Results for Virustotal Integration"/>
 </div>
 
 
