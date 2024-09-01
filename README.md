@@ -48,7 +48,7 @@ This section is designed to help you search for indicators such as IP addresses,
 
 We are constantly working on bringing more trusted feeds that are widely used by the security community. ***Special thanks to all the open-source threat intelligence feed providers for their invaluable support to the community.*** If you feel any feed is missing and it’s open-source, feel free to submit a feature request to add the feed using the **chat** icon at the bottom right.
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/IP_Search_Basic_Top+Screen.png" alt="CyberCheck360.com IP Lookup Results"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/IP_Search_Basic_Top+Screen.png" style="width: 800px; height: auto;" alt="CyberCheck360.com IP Lookup Results"/>
 </div>
 
 
