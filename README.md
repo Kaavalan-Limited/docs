@@ -53,22 +53,22 @@ We are constantly working on bringing more trusted feeds that are widely used by
 
 
 ### Catgeories
-	> Malware
+- **Malware**
 Malware is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category. 
 ### 
-	> Phishing
+- **Phishing**
 Phishing involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 ### 
-	> Botnet
+- **Botnet**
 Botnets consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
 ### 
-	> Anonymizers
+- **Anonymizers**
 Anonymizers are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
 ### 
-	> Exploits
+- **Exploits**
 Exploits are methods used to take advantage of vulnerabilities in systems, applications, or networks to gain unauthorized access or cause damage. These vulnerabilities can exist in software, hardware, or configurations, and exploits are designed to exploit these weaknesses to compromise security.
 ### 
-	> Spam
+- **Spam**
 Spam refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs). 
 
 `If you notice any issues or have suggestions for improvements, please reach out. We're always ready to review and update our data to ensure it meets your needs.`
@@ -94,13 +94,13 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
 Our Lists organized into two main types: Public and Private. Private and Public List can be categorised into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
 ###
-	> Public
+- **Public**
 A Public List conatins indicators that are publicly accessible to any of the Cybercheck360.com users. It has ssome minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it. Lists can hold a maximum on 10,000 indicators.
 
 `Users can report false positives, and these reports are visible to everyone. A high number of false positive reports can affect the trustworthiness of your list, potentially leading to reduced interest from users.`
 
 ###
-	> Private
+- **Private**
 A List that contains indicators that are private only to you and thelist can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privillege to report to any False positive reports on the List.
 
 --- 
