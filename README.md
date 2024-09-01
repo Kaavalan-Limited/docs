@@ -16,6 +16,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 
 **Cybercheck360** is a proud product of **Kaavalan Limited**, reflecting our commitment to innovation and security in the digital age.
 
+--- 
 # Features
 1. [**Search IOCs**](#search-iocs) with 100+ Threat Intelligence Feeds
 	- IP Lookup
@@ -39,7 +40,9 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
    	- Highly Reliable Kaavalan's Threat Intelligence Feed
    	- Automated Advisory Reports
    	- Automated Threat Detection and Blocking Engine
-   	
+
+--- 
+
 ## Search IOCs 
 This section is designed to help you search for indicators such as IP addresses, domains, and URLs, and even validate SMS messages containing links to check if they are legitimate. You can search across multiple open-source threat intelligence feeds and benefit from AI-powered insights that enhance the accuracy of the information gathered. 
 
@@ -86,7 +89,7 @@ Spam refers to unsolicited and often irrelevant or inappropriate messages sent o
 	- **DNSBL (DNS-based Blackhole Lists)**  
   DNSBLs are a traditional technology used to block or filter spam and malicious traffic by checking IP addresses against a blacklist. While not as commonly used today due to advancements in threat detection, DNSBLs still provide valuable data for identifying known sources of spam and malicious activities.
 -->
-
+--- 
 ## Lists (IOC Lists)
 Our Lists organized into two main types: Public and Private. Private and Public List can be categorised into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
@@ -100,7 +103,7 @@ A Public List conatins indicators that are publicly accessible to any of the Cyb
 	> Private
 A List that contains indicators that are private only to you and thelist can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privillege to report to any False positive reports on the List.
 
-
+--- 
 ## Integrations
 Integrations are essential tools that allow you to seamlessly connect **Cybercheck360** with your trusted **threat intelligence feeds**. By integrating these feeds, you can consolidate diverse threat data sources into a single, unified dashboard improving efficiency and decision making. With a comprehensive view of your threat landscape, you can better manage and respond to potential threats, making your security operations more effective.
 
@@ -192,7 +195,7 @@ Once you sign up, follow the steps in the below screnshot to get the API Key
   <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/OTX+Sample+Response.png" style="width: auto; height: 150px;" alt="CyberCheck360.com Results for Virustotal Integration"/>
 </div>
 
-
+--- 
 ## Browser Extentions
 
 We have passionately designed our Extention  to easily perform IP lookup, URL lookup, Domain lookup, and Blacklist lookup with CyberCheck360's advanced Threat Intelligence platform. By simply highlighting text, you can instantly extract and analyze IP addresses, domains, and URLs for rapid threat intelligence and insights. The platform supports informed cybersecurity decisions by integrating various vendors, allowing users to bring their own API keys and conduct extensive searches across multiple sources within a single TIP. Additionally, users can configure which websites have the URL scanner feature enabled. All settings and integrations are fully customizable in the extension's Options page, ensuring seamless threat lookup and intelligence gathering.
@@ -214,38 +217,51 @@ We’re excited to announce that we're working on expanding support to:
 - Email clients
 Stay tuned for updates!
 
-**Upcoming Features**
+--- 
+
+## **Upcoming Features**
    	
-- _**API Functionality**_
+### _**API Functionality**_
+
 API is always a key functionaly for any Saas product and we are also working on with it and should be released very soon helping you lookup indicators at scall from any of your prefered automation platforms. 
    	
-- _**External Dynamic Lists**_
+### _**External Dynamic Lists**_
+
 Unlock the power of your Private and Public IOCs with Cybercheck360.com's advanced integration features. Our platform allows you to effortlessly consume IOC lists through public endpoints, making it easy to connect directly with your firewall or any text file consumers like automation platforms and scripts. With enhanced granular control, you can customize your exports by implementing custom whitelisting, domain ranking exclusions, filtering based on recent searches, scores, and categories, and much more.
 
 Ensure the security of your data with IP-based ACL controls, limiting access to your hosted lists and preventing unauthorized users from viewing your private IOCs. Cybercheck360.com is meticulously designed to provide you with the control you need, allowing direct use of exported data without requiring additional filtering platforms. Experience secure, hassle-free IOC management tailored to your needs.
    	
-- _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
+### _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
+
 We are excited to announce the development of our very own threat intelligence feed, meticulously curated from a wide range of sources. This includes multiple open-source feeds, commercial data streams, and exclusive insights gathered through our in-house honeypot detection platform, deployed across multiple regions.
 
 Our feed is designed with reliability as a core principle, ensuring a very low false positive rate. You can trust this manually curated intelligence for direct blocking and informed decision-making. Stay tuned for a new level of threat intelligence that will elevate your cybersecurity strategy!
    	
-- _**Automated Advisory Reports**_
+### _**Automated Advisory Reports**_
+
 We’re thrilled to announce that we’re working on a cutting-edge feature that will revolutionize how you stay ahead of the latest cybersecurity threats. Our new vulnerability advisory service is coming soon, and it will offer:
 
-**Early Alerts:** Get notified about newly discovered vulnerabilities as soon as they are published.
-**Comprehensive Guidance:** Receive detailed steps to mitigate risks and prevent exploitation.
-**Indicators of Compromise:** Access critical indicators related to each vulnerability to help you identify and respond to threats swiftly.
+- **Early Alerts:** Get notified about newly discovered vulnerabilities as soon as they are published.
+- **Comprehensive Guidance:** Receive detailed steps to mitigate risks and prevent exploitation.
+- **Indicators of Compromise:** Access critical indicators related to each vulnerability to help you identify and respond to threats swiftly.
+
 Our team is meticulously curating information from top security blogs and news sources to ensure you get the most relevant and timely updates without the hassle of searching through multiple sources.
 
 Stay tuned for the launch of this valuable service, designed to keep you informed and secure with minimal effort. We can’t wait to help you stay one step ahead of emerging threats!
    	
-- _**Automated Threat Detection and Blocking Engine**_
+### _**Automated Threat Detection and Blocking Engine**_
+
 We’re excited to announce our new cloud-based log aggregation system, specifically designed to enhance your network security by focusing on network logs.
 
-Key Features:
+- **Centralized Log Collection:** Collect and aggregate network logs from various sources for a comprehensive view of your network activity.
+- **Automated Threat Detection:** Our system scans your network traffic against millions of suspicious indicators, automatically identifying potential threats.
+- **Real-Time Alerts:** Receive immediate notifications about detected threats and actionable suggestions for blocking them.
 
-**Centralized Log Collection:** Collect and aggregate network logs from various sources for a comprehensive view of your network activity.
-**Automated Threat Detection:** Our system scans your network traffic against millions of suspicious indicators, automatically identifying potential threats.
-**Real-Time Alerts:** Receive immediate notifications about detected threats and actionable suggestions for blocking them.
 Network logs play a crucial role in identifying and preventing malicious activities. Our system ensures you stay ahead of threats with minimal manual effort.
 
+--- 
+
+For any feedback, suggestions, issues, or feature requests, please use the green chat icon located at the bottom right corner of the page. We’re here to help and value your input!
+
+Don’t forget to **subscribe** to our [**YouTube channel**](https://www.youtube.com/@KaavalanLtd) and **follow** us on [**LinkedIn**](https://www.linkedin.com/company/kaavalan/about/?viewAsMember=true) for the latest features and updates. 
+As a startup, your community support means a lot to us and drives us to keep innovating and building the solutions you need. Thank you for being a part of our journey!
