@@ -120,7 +120,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 
 #### Sample Result Screenshot
 <div style="display: flex; justify-content: center;">
-  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/AbuseIPDB_Sample+Response2.png" style="width: 800px; height: auto;" alt="CyberCheck360.com Results for AbuseIPDB Integration"/>
+  <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/AbuseIPDB_Sample+Response2.png" style="width: 600px; height: auto;" alt="CyberCheck360.com Results for AbuseIPDB Integration"/>
 </div>
 
 
@@ -218,15 +218,15 @@ Stay tuned for updates!
 
 **Upcoming Features**
    	
-    > API Functionality
+    - _**API Functionality**_
 API is always a key functionaly for any Saas product and we are also working on with it and should be released very soon helping you lookup indicators at scall from any of your prefered automation platforms. 
    	
-    > External Dynamic Lists
+    - _**External Dynamic Lists**_
 Unlock the power of your Private and Public IOCs with Cybercheck360.com's advanced integration features. Our platform allows you to effortlessly consume IOC lists through public endpoints, making it easy to connect directly with your firewall or any text file consumers like automation platforms and scripts. With enhanced granular control, you can customize your exports by implementing custom whitelisting, domain ranking exclusions, filtering based on recent searches, scores, and categories, and much more.
 
 Ensure the security of your data with IP-based ACL controls, limiting access to your hosted lists and preventing unauthorized users from viewing your private IOCs. Cybercheck360.com is meticulously designed to provide you with the control you need, allowing direct use of exported data without requiring additional filtering platforms. Experience secure, hassle-free IOC management tailored to your needs.
    	
-    > Highly Reliable Kaavalan's Threat Intelligence Feed
+    - _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
 We are excited to announce the development of our very own threat intelligence feed, meticulously curated from a wide range of sources. This includes multiple open-source feeds, commercial data streams, and exclusive insights gathered through our in-house honeypot detection platform, deployed across multiple regions.
 
 Our feed is designed with reliability as a core principle, ensuring a very low false positive rate. You can trust this manually curated intelligence for direct blocking and informed decision-making. Stay tuned for a new level of threat intelligence that will elevate your cybersecurity strategy!
