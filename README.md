@@ -37,10 +37,8 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
    	- API Functionality
    	- External Dynamic Lists
    	- Highly Reliable Kaavalan's Threat Intelligence Feed
-   	- Advisories of Recent Vulnerabilities both for you and for your customers.
-   	- Manage Users inside a Organization
-   	- Find the Unknown and Block the Known using our Automated Threat Hunting Engine
-   	- Insider Threat Detection
+   	- Automated Advisory Reports
+   	- Automated Threat Detection and Blocking Engine
    	
 ## Search IOCs 
 This section is designed to help you search for indicators such as IP addresses, domains, and URLs, and even validate SMS messages containing links to check if they are legitimate. You can search across multiple open-source threat intelligence feeds and benefit from AI-powered insights that enhance the accuracy of the information gathered. 
@@ -218,20 +216,20 @@ Stay tuned for updates!
 
 **Upcoming Features**
    	
-    - _**API Functionality**_
+- _**API Functionality**_
 API is always a key functionaly for any Saas product and we are also working on with it and should be released very soon helping you lookup indicators at scall from any of your prefered automation platforms. 
    	
-    - _**External Dynamic Lists**_
+- _**External Dynamic Lists**_
 Unlock the power of your Private and Public IOCs with Cybercheck360.com's advanced integration features. Our platform allows you to effortlessly consume IOC lists through public endpoints, making it easy to connect directly with your firewall or any text file consumers like automation platforms and scripts. With enhanced granular control, you can customize your exports by implementing custom whitelisting, domain ranking exclusions, filtering based on recent searches, scores, and categories, and much more.
 
 Ensure the security of your data with IP-based ACL controls, limiting access to your hosted lists and preventing unauthorized users from viewing your private IOCs. Cybercheck360.com is meticulously designed to provide you with the control you need, allowing direct use of exported data without requiring additional filtering platforms. Experience secure, hassle-free IOC management tailored to your needs.
    	
-    - _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
+- _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
 We are excited to announce the development of our very own threat intelligence feed, meticulously curated from a wide range of sources. This includes multiple open-source feeds, commercial data streams, and exclusive insights gathered through our in-house honeypot detection platform, deployed across multiple regions.
 
 Our feed is designed with reliability as a core principle, ensuring a very low false positive rate. You can trust this manually curated intelligence for direct blocking and informed decision-making. Stay tuned for a new level of threat intelligence that will elevate your cybersecurity strategy!
    	
-    > Advisories of Recent Vulnerabilities both for you and for your customers.
+- _**Automated Advisory Reports**_
 We’re thrilled to announce that we’re working on a cutting-edge feature that will revolutionize how you stay ahead of the latest cybersecurity threats. Our new vulnerability advisory service is coming soon, and it will offer:
 
 **Early Alerts:** Get notified about newly discovered vulnerabilities as soon as they are published.
@@ -241,7 +239,13 @@ Our team is meticulously curating information from top security blogs and news s
 
 Stay tuned for the launch of this valuable service, designed to keep you informed and secure with minimal effort. We can’t wait to help you stay one step ahead of emerging threats!
    	
-    > Manage Users inside a Organization
+- _**Automated Threat Detection and Blocking Engine**_
+We’re excited to announce our new cloud-based log aggregation system, specifically designed to enhance your network security by focusing on network logs.
 
-   	- Find the Unknown and Block the Known using our Automated Threat Hunting Engine
-   	- Insider Threat Detection
+Key Features:
+
+**Centralized Log Collection:** Collect and aggregate network logs from various sources for a comprehensive view of your network activity.
+**Automated Threat Detection:** Our system scans your network traffic against millions of suspicious indicators, automatically identifying potential threats.
+**Real-Time Alerts:** Receive immediate notifications about detected threats and actionable suggestions for blocking them.
+Network logs play a crucial role in identifying and preventing malicious activities. Our system ensures you stay ahead of threats with minimal manual effort.
+
