@@ -57,7 +57,7 @@ We are constantly working on bringing more trusted feeds that are widely used by
 ### 
 - **Phishing** involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 ### 
-- **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
+- **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviours** are categorized under the "Botnet" category. 
 ### 
 - **Anonymizers** are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
 ### 
@@ -109,7 +109,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
-4. Expland "AbuseIPDB" Integrations.
+4. Expand "AbuseIPDB" Integrations.
 5. Accept the submission of sending Searched indicators to AbuseIPDB (Check the Checkbox)
 6. Click on "Save and Enable"
 
@@ -129,7 +129,7 @@ Before you begin configuring the Integration you may need to register with Virus
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
-4. Expland "VirusTotal" Integration.
+4. Expand "VirusTotal" Integration.
 5. Select the IOC Types you want the Virustotal Integration to be used when you search an IOC in CyberCheck360.
 6. Provide a "Reference Name" an Unique Name that can help you identify if you create multiple Integrations for the same Integration Provider.
 7. Provide API Key from "Virustotal". Check this [link](https://docs.virustotal.com/reference/authentication) for more details.
@@ -167,7 +167,7 @@ Once you sign up, follow the steps in the below screenshot to get the API Key
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
-4. Expland "OTX" Integration.
+4. Expand "OTX" Integration.
 5. Select the IOC Types you want the OTX Integration to be used when you search an IOC in CyberCheck360.
 6. Provide a "Reference Name" an Unique Name that can help you identify if you create multiple Integrations for the same Integration Provider.
 7. Provide API Key from "OTX".
