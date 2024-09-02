@@ -57,7 +57,7 @@ We are constantly working on bringing more trusted feeds that are widely used by
 ### 
 - **Phishing** involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
 ### 
-- **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviours** are categorized under the "Botnet" category. 
+- **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category. 
 ### 
 - **Anonymizers** are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds. 
 ### 
@@ -85,7 +85,7 @@ We are constantly working on bringing more trusted feeds that are widely used by
 -->
 --- 
 ## Lists (IOC Lists)
-Our Lists organized into two main types: Public and Private. Private and Public List can be categorised into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
+Our Lists organized into two main types: Public and Private. Private and Public List can be categorized into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
 ###
 - **Public**
@@ -192,7 +192,7 @@ Once you sign up, follow the steps in the below screenshot to get the API Key
 --- 
 ## Browser Extensions
 
-We have passionately designed our Extension  to easily perform IP lookup, URL lookup, Domain lookup, and Blacklist lookup with CyberCheck360's advanced Threat Intelligence platform. By simply highlighting text, you can instantly extract and analyse IP addresses, domains, and URLs for rapid threat intelligence and insights. The platform supports informed cybersecurity decisions by integrating various vendors, allowing users to bring their own API keys and conduct extensive searches across multiple sources within a single TIP. Additionally, users can configure which websites have the URL scanner feature enabled. All settings and integrations are fully customizable in the extension's Options page, ensuring seamless threat lookup and intelligence gathering.
+We have passionately designed our Extension  to easily perform IP lookup, URL lookup, Domain lookup, and Blacklist lookup with CyberCheck360's advanced Threat Intelligence platform. By simply highlighting text, you can instantly extract and analyze IP addresses, domains, and URLs for rapid threat intelligence and insights. The platform supports informed cybersecurity decisions by integrating various vendors, allowing users to bring their own API keys and conduct extensive searches across multiple sources within a single TIP. Additionally, users can configure which websites have the URL scanner feature enabled. All settings and integrations are fully customizable in the extension's Options page, ensuring seamless threat lookup and intelligence gathering.
 
 We've made every effort to ensure that all configurations are self-explanatory. However, if you need further guidance, we've also prepared a comprehensive training video that walks you through the process step by step. Feel free to check it out using the link provided.
 
