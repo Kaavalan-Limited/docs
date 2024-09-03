@@ -25,21 +25,21 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- Domain Lookup
  	- SMS Validation
 2. **IOCs List**
-	- Private List
-	- Public List
-3. **Integrations**
+	- Private List(#private)
+	- Public List(#public)
+3. [**Integrations**](#integrations)
 	- [AbuseIPDB](#abuseipdb-integration)
 	- [VirusTotal](#virustotal-integration)
 	- [OTX](#otx-integration)
- 4. **Browser Extension**
+4. [**Browser Extension**](#browser-extensions)
 	- [Chrome WebStore](https://chromewebstore.google.com/detail/cybercheck360/kokegkiimgecajiaaefcoknbdaaddpdd)
 	- [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/cybercheck360/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-5. **Upcoming Features**
-   	- API Functionality
-   	- External Dynamic Lists
-   	- Highly Reliable Kaavalan's Threat Intelligence Feed
-   	- Automated Advisory Reports
-   	- Automated Threat Detection and Blocking Engine
+5. [**Upcoming Features**](#upcoming-features)
+   	- [API Functionality](#api-functionality)
+   	- [External Dynamic Lists](#external-dynamic-lists)
+   	- [Highly Reliable Kaavalan's Threat Intelligence Feed](#highly-reliable-kaavalans-threat-intelligence-feed)
+   	- [Automated Advisory Reports](#automated-advisory-reports)
+   	- [Automated Threat Detection and Blocking Engine](#automated-threat-detection-and-blocking-engine)
 
 --- 
 
