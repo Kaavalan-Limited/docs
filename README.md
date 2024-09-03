@@ -24,7 +24,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- URL Lookup with Screenshot and Lot more
 	- Domain Lookup
  	- SMS Validation
-2. **IOCs List**(#lists-ioc-lists)
+2. [**IOCs List**](#lists-ioc-lists)
 	- [Private List](#private)
 	- [Public List](#public)
 3. [**Integrations**](#integrations)
