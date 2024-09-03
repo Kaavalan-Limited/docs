@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: center;">
   <img onclick={viewImage} src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/Cybercheck360_Logo_Blue_500.png" style="width: auto; height: 100px;" alt="CyberCheck360.com Logo"/>
+  <p>Changes</p>
 </div>
 
   <!-- ![CyberCheck360.com Logo](https://kaavalanpublic.s3.eu-west-1.amazonaws.com/logos/Cybercheck360_Logo_Blue_500.png "CyberCheck360 Powered by Kaavalan") -->
