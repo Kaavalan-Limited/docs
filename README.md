@@ -24,7 +24,7 @@ Additionally, Cybercheck360 allows registered users to integrate their own API k
 	- URL Lookup with Screenshot and Lot more
 	- Domain Lookup
  	- SMS Validation
-2. **IOCs List**
+2. **IOCs List**(#lists-ioc-lists)
 	- [Private List](#private)
 	- [Public List](#public)
 3. [**Integrations**](#integrations)
@@ -87,15 +87,13 @@ We are constantly working on bringing more trusted feeds that are widely used by
 ## Lists (IOC Lists)
 Our Lists organized into two main types: Public and Private. Private and Public List can be categorized into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
-###
-- **Public**
-A Public List contains indicators that are publicly accessible to any of the Cybercheck360.com users. It has some minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it. Lists can hold a maximum on 10,000 indicators.
+- #### Public
+- A Public List contains indicators that are publicly accessible to any of the Cybercheck360.com users. It has some minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it. Lists can hold a maximum on 10,000 indicators.
 
 `Users can report false positives, and these reports are visible to everyone. A high number of false positive reports can affect the trustworthiness of your list, potentially leading to reduced interest from users.`
 
-###
-- **Private**
-A List that contains indicators that are private only to you and the list can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privilege to report to any False positive reports on the List.
+- #### Private
+- A List that contains indicators that are private only to you and the list can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privilege to report to any False positive reports on the List.
 
 --- 
 ## Integrations
