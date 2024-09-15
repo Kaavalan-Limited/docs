@@ -55,15 +55,15 @@ We are constantly working on bringing more trusted feeds that are widely used by
 
 ### Categories
 - **Malware** is harmful software designed to damage or exploit systems, networks, or devices. We categorize any IP, domain, or URL involved in malware-related activities under the "Malware" category.
-###
+
 - **Phishing** involves deceptive practices where attackers try to trick individuals into revealing sensitive information, such as login credentials or personal details, by pretending to be trustworthy entities. Any IP, domain, or URL involved in phishing activities is categorized under the "Phishing" category.
-###
+
 - **Botnet** consist of networks of compromised computers that are controlled remotely to perform malicious activities, often without the users' knowledge. IPs involved in **scanning** or exhibiting **bot-like behaviors** are categorized under the "Botnet" category.
-###
+
 - **Anonymizers** are services or tools that protect users' privacy by masking their IP addresses or routing their traffic through multiple servers. This category includes proxies, VPNs, and the Tor network, which anonymizes internet activity by routing traffic through a distributed network of relays. IPs and domains associated with these services are categorized under "Anonymizers" feeds.
-###
+
 - **Exploits** are methods used to take advantage of vulnerabilities in systems, applications, or networks to gain unauthorized access or cause damage. These vulnerabilities can exist in software, hardware, or configurations, and exploits are designed to exploit these weaknesses to compromise security.
-###
+
 - **Spam**  refers to unsolicited and often irrelevant or inappropriate messages sent over the internet, typically in bulk, to promote products or services, or simply to flood inboxes. These messages can appear in various forms, including emails, comments, or social media posts, and are often used to distribute malicious content or scams. Many of the spam feeds we use are based on an older technology known as DNS-based Blackhole Lists (DNSBLs).
 
 `If you have suggestions for improvements or any misclassifications, please reach out. We're all ears!`
@@ -88,12 +88,12 @@ We are constantly working on bringing more trusted feeds that are widely used by
 ## Lists (IOC Lists)
 Our Lists organized into two main types: Public and Private. Private and Public List can be categorized into Malware, Botnet, Exploit, Spam, Phishing, Anonymizers, and Whitelist. These categories are designed to ensure clarity and prevent excessive fragmentation into subcategories, allowing you to quickly access the most pertinent data.
 
-- #### Public
+- ### Public
 - A List contains indicators that are publicly accessible to any of the Cybercheck360.com users. It has some minor configuration to make users to Subscribe to view the Indicators or everyone can View the Indicators. Public lists are the best way to share to community and showcase your best efforts of your Threat Hunting and Users can Subscribe to Make better use of it. Lists can hold a maximum on 10,000 indicators.
 
 `Users can report false positives, and these reports are visible to everyone. A high number of false positive reports can affect the trustworthiness of your list, potentially leading to reduced interest from users.`
 
-- #### Private
+- ### Private
 - A List that contains indicators that are private only to you and the list can be shared to other cybercheck360 user and the user you share this list with gets an admin permission to update Indicators on the List and also gets privilege to report to any False positive reports on the List.
 
 ---
@@ -104,7 +104,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 [AbuseIPDB's](https://www.abuseipdb.com/about.html) mission is to provide an easy way for sysadmins to both report malicious IP addresses, and gain access to a crowdsourced list of bad IPs before they've even had the chance to attack your infrastructure.
 
 #### How to Enable AbuseIPDB Integration with Cybercheck360
-##### **Steps**:
+##### **Steps**
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
@@ -124,7 +124,7 @@ Integrations are essential tools that allow you to seamlessly connect **Cyberche
 
 #### How to Enable VirusTotal Integration with Cybercheck360
 Before you begin configuring the Integration you may need to register with Virustotal and Obtain an API Key that will be used in the Later Steps in configuring the integration.
-##### **Steps**:
+##### **Steps**
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
@@ -162,7 +162,7 @@ Once you sign up, follow the steps in the below screenshot to get the API Key
   <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/OTX_API_KEY_Generation.png" alt="Where to get OTX API Key"/>
 </div>
 
-##### **Steps**:
+##### **Steps**
 1. Login to CyberCheck360.com
 2. Navigate to "Integrations" from the Top Nav Bar
 3. Navigate to "Add Integrations"
@@ -173,12 +173,12 @@ Once you sign up, follow the steps in the below screenshot to get the API Key
 8. Set RateLimits if required, if not leave it to default.
 9. Accept the submission of sending Searched indicators to OTX (Check the Checkbox)
 10. Save Data for re-lookup 7 Days - This option will cache the result for you 7 days.
-    
+
      <div style="display: flex; margin: 0; align-items: center;">
     <img src="https://kaavalanpublic.s3.eu-west-1.amazonaws.com/PicsforDocs/cached_icon.png" alt="CyberCheck360.com Cache" style="margin-right: 3px;"/>
     <p style="margin: 0;">This represents the result is from cache.</p>
     </div>
-    
+
      `For example, if you search for an indicator on Monday at 10 AM, we will cache the response from OTX. For the next 7 days, until the following Monday at 9:59 AM, we will return the cached result for subsequent searches of the same indicator. This approach helps prevent overuse of your valuable API subscription.`
 
 12. Click on "Save and Enable"
@@ -213,23 +213,23 @@ Stay tuned for updates!
 ---
 
 ## **Upcoming Features**
-       
+
 ### _**API Functionality**_
 
 APIs are a crucial feature for any SaaS product, and we’re also working on build an infrastructure to support this our platform. Our upcoming API will enable you to seamlessly look up indicators at scale from any of your preferred automation platforms. Stay tuned for its release, which will be available very soon!
-       
+
 ### _**External Dynamic Lists**_
 
 Unlock the power of your Private and Public IOCs with Cybercheck360.com's advanced integration features. Our platform allows you to effortlessly consume IOC lists through public endpoints, making it easy to connect directly with your firewall or any text file consumers like automation platforms and scripts. With enhanced granular control, you can customize your exports by implementing custom whitelisting, domain ranking exclusions, filtering based on recent searches, scores, and categories, and much more.
 
 Ensure the security of your data with IP-based ACL controls, limiting access to your hosted lists and preventing unauthorized users from viewing your private IOCs. Cybercheck360.com is meticulously designed to provide you with the control you need, allowing direct use of exported data without requiring additional filtering platforms. Experience secure, hassle-free IOC management tailored to your needs.
-       
+
 ### _**Highly Reliable Kaavalan's Threat Intelligence Feed**_
 
 We are excited to announce the development of our very own threat intelligence feed, meticulously curated from a wide range of sources. This includes multiple open-source feeds, commercial data streams, and exclusive insights gathered through our in-house honeypot detection platform, deployed across multiple regions.
 
 Our feed is designed with reliability as a core principle, ensuring a very low false positive rate. You can trust this manually curated intelligence for direct blocking and informed decision-making. Stay tuned for a new level of threat intelligence that will elevate your cybersecurity strategy!
-       
+
 ### _**Automated Advisory Reports**_
 
 We’re thrilled to announce that we’re working on a cutting-edge feature that will revolutionize how you stay ahead of the latest cybersecurity threats. Our new vulnerability advisory service is coming soon, and it will offer:
@@ -241,7 +241,7 @@ We’re thrilled to announce that we’re working on a cutting-edge feature that
 Our team is meticulously curating information from top security blogs and news sources to ensure you get the most relevant and timely updates without the hassle of searching through multiple sources.
 
 Stay tuned for the launch of this valuable service, designed to keep you informed and secure with minimal effort. We can’t wait to help you stay one step ahead of emerging threats!
-       
+
 ### _**Automated Threat Detection and Blocking Engine**_
 
 We’re excited to announce our new cloud-based log aggregation system, specifically designed to enhance your network security by focusing on network logs.
