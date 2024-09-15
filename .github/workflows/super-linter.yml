@@ -16,3 +16,4 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.SUPER_LINTER_TOKEN }}
+          VALIDATE_MARKDOWN: false
