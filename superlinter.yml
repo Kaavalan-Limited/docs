@@ -1,7 +1,0 @@
----
-linters:
-  markdown:
-    disable:
-      - "line-length"
-      - "no-duplicate-heading"
-      - "emphasis-style"
